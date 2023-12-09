@@ -1400,18 +1400,6 @@ table {
     font-size: var(--small-font-size);
 }
 
-/*=============== LOGIN-REGISTER ===============*/
-.login-register__container {
-    grid-template-columns: repeat(2,1fr);
-    align-items: flex-start;
-}
-
-.login,
-.register {
-    border: 1px solid var(--border-color-alt);
-    padding: 2rem;
-    border-radius: 0.5rem;
-}
 
 /*=============== ACCOUNTS ===============*/
 .accounts__container {
@@ -1870,4 +1858,3 @@ table {
         width: 100%;
     }
 }
-
